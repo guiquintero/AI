@@ -1,0 +1,35 @@
+# Repositório de Estudos de IA
+
+Este repositório foi criado para armazenar e organizar os estudos de Inteligência Artificial (IA) realizados durante o curso da Rocketseat. Aqui você encontrará notebooks, scripts e datasets utilizados ao longo do curso, bem como análises e modelos desenvolvidos.
+
+Conteúdo
+- Análise Exploratória de Dados (EDA) sobre churn de clientes.
+- Desenvolvimento de um modelo de regressão linear para prever resultados de exames de diabetes.
+- Desafio de estatística para desenvolvedores.
+- Análises estatísticas diversas.
+
+Clone o repositório:
+```
+git clone https://github.com/guiquintero/AI.git
+```
+
+Navegue até o diretório do repositório:
+```
+cd seu-repositorio
+```
+
+Crie e ative um ambiente virtual:
+```
+python3 -m venv myenv
+source myenv/bin/activate
+```
+
+Instale as dependências:
+```
+pip install -r requirements.txt
+```
+
+Abra os notebooks no Jupyter:
+```
+jupyter notebook
+```
